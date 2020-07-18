@@ -29,4 +29,5 @@ Sample Input 0
 Sample Output 0
 
 Case1: 6
+
 Case2: 30
